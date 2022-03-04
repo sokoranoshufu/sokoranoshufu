@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## お試し中
 
-You can use the [editor on GitHub](https://github.com/sokoranoshufu/sokoranoshufu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ちょこっと勉強中です。 [ここ](https://github.com/sokoranoshufu/sokoranoshufu.github.io/edit/main/index.md) のファイルを更新することで、画面の内容が修正されるよ。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+コミットするたびに [Jekyll](https://jekyllrb.com/) が実行されて、サイトの情報を更新されるよ。
 
 ### Markdown
 
